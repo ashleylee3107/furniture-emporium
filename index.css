@@ -1,0 +1,22 @@
+h2 {
+  color: rgb(189, 117, 189);
+}
+
+.btn-box {
+  color: purple;
+  border-color: purple;
+  cursor: pointer;
+  margin: 15px;
+  padding: 15px;
+  background-color: frgb(222, 154, 222);
+  font-size: 17pt;
+}
+
+.product-card {
+  padding: 30px;
+  margin: 30px;
+  border: 30px;
+  background-color: rgb(231, 216, 239);
+  font-size: 12pt;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
